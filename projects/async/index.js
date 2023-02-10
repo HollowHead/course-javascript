@@ -29,8 +29,8 @@
    homeworkContainer.appendChild(newDiv);
  */
 
-// import { loadAndSortTowns } from './functions.js';
-// import './towns.html';
+import { loadAndSortTowns } from './functions.js';
+import './towns.html';
 
 const homeworkContainer = document.querySelector('#app');
 
